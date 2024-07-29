@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Ray-Ban RX5268",
+    "price": "$59.99",
+    "colors": "2 colors",
+    "imageUrl": "./images/glass1.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass3.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Amelia E. Nettle",
+    "price": "$69.99",
+    "colors": "3 colors",
+    "imageUrl": "./images/glass2.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass4.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Muse Campbell",
+    "price": "$79.99",
+    "colors": "4 colors",
+    "imageUrl": "./images/glass3.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass5.jfif"
+  },
+  {
+    "id": 4,
+    "name": "Ray-Ban RX5228",
+    "price": "$89.99",
+    "colors": "5 colors",
+    "imageUrl": "./images/glass4.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass6.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Muse Elliot",
+    "price": "$99.99",
+    "colors": "6 colors",
+    "imageUrl": "./images/glass5.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass7.jfif"
+  },
+  {
+    "id": 6,
+    "name": "Muse Elliot",
+    "price": "$109.99",
+    "colors": "7 colors",
+    "imageUrl": "./images/glass6.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass8.jfif"
+  },
+  {
+    "id": 7,
+    "name": "Amelia E. Nettle",
+    "price": "$119.99",
+    "colors": "8 colors",
+    "imageUrl": "./images/glass7.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass9.jfif"
+  },
+  {
+    "id": 8,
+    "name": "Ottoto Annex",
+    "price": "$129.99",
+    "colors": "9 colors",
+    "imageUrl": "./images/glass8.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass10.jfif"
+  },
+  {
+    "id": 9,
+    "name": "Muse Corvallis",
+    "price": "$139.99",
+    "colors": "10 colors",
+    "imageUrl": "./images/glass9.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass11.jfif"
+  },
+  {
+    "id": 10,
+    "name": "Ray-Ban RX6335",
+    "price": "$149.99",
+    "colors": "11 colors",
+    "imageUrl": "./images/glass10.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass12.jfif"
+  },
+  {
+    "id": 11,
+    "name": "Amelia E. Tricia",
+    "price": "$159.99",
+    "colors": "12 colors",
+    "imageUrl": "./images/glass11.jfif",
+    "label": "New",
+    "hoverImageUrl": "./images/glass1.jfif"
+  },
+  {
+    "id": 12,
+    "name": "Revel Port",
+    "price": "$169.99",
+    "colors": "13 colors",
+    "imageUrl": "./images/glass12.jfif",
+    "label": "Premium",
+    "hoverImageUrl": "./images/glass2.jfif"
+  }
+]

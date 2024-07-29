@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Acuvue Oasys for Astigmatism",
+    "imageUrl": "./images/lenses/lenses1.jfif",
+    "description": "Weekly | 6pk"
+  },
+  {
+    "name": "Biofinity Toric",
+    "imageUrl": "./images/lenses/lenses2.jfif",
+    "description": "Monthly | 6pk"
+  },
+  {
+    "name": "Vista plus",
+    "imageUrl": "./images/lenses/lenses3.jfif",
+    "description": "Daily | 30pk"
+  },
+  {
+    "name": "Acuvue Oasys",
+    "imageUrl": "./images/lenses/lenses4.jfif",
+    "description": "Weekly | 12pk"
+  },
+  {
+    "name": "Acuvue Oasys 1 Day",
+    "imageUrl": "./images/lenses/lenses5.jfif",
+    "description": "Daily | 90pk"
+  },
+  {
+    "name": "Air Optix Colors",
+    "imageUrl": "./images/lenses/lenses6.jfif",
+    "description": "Monthly | 2pk"
+  },
+  {
+    "name": "Proclear",
+    "imageUrl": "./images/lenses/lenses7.jfif",
+    "description": "Monthly | 6pk"
+  },
+  {
+    "name": "Biofinity",
+    "imageUrl": "./images/lenses/lenses5.jfif",
+    "description": "Monthly | 6pk"
+  },
+  {
+    "name": "SofLens",
+    "imageUrl": "./images/lenses/lenses4.jfif",
+    "description": "Monthly | 6pk"
+  },
+  {
+    "name": "Biomedics",
+    "imageUrl": "./images/lenses/lenses3.jfif",
+    "description": "Monthly | 6pk"
+  },
+  {
+    "name": "Dailies",
+    "imageUrl": "./images/lenses/lenses1.jfif",
+    "description": "Daily | 30pk"
+  },
+  {
+    "name": "Air Optix",
+    "imageUrl": "./images/lenses/lenses2.jfif",
+    "description": "Monthly | 6pk"
+  }
+]

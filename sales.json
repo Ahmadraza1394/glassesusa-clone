@@ -1,0 +1,44 @@
+[
+  {
+    "discount": 30,
+    "imageUrl": "./images/sales/sale7.jpg",
+    "title": "Save 30% off frames.",
+    "detailsLink": "More Details",
+    "code": "SPRINGFEVER"
+  },
+  {
+    "discount": 20,
+    "imageUrl": "./images/sales/sale2.jpg",
+    "title": "20% off on sunglasses.",
+    "detailsLink": "Shop Now",
+    "code": "SUMMERSALE"
+  },
+  {
+    "discount": 15,
+    "imageUrl": "./images/sales/sale6.jpg",
+    "title": "15% discount on lenses.",
+    "detailsLink": "Learn More",
+    "code": "CLEARVISION"
+  },
+  {
+    "discount": 25,
+    "imageUrl": "./images/sales/sale4.jpg",
+    "title": "25% off on contact lenses.",
+    "detailsLink": "View Offer",
+    "code": "CONTACT25"
+  },
+  {
+    "discount": 35,
+    "imageUrl": "./images/sales/sale5.jpg",
+    "title": "Get 35% off eyewear.",
+    "detailsLink": "Explore Now",
+    "code": "EYE35OFF"
+  },
+  {
+    "discount": 18,
+    "imageUrl": "./images/sales/sale1.jpg",
+    "title": "Limited time: 18% off all glasses.",
+    "detailsLink": "Discover More",
+    "code": "LIMITED18"
+  }
+]
